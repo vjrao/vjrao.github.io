@@ -1,2 +1,2 @@
-help\n
-the hyenas are coming
+<p>help</p>
+<p>the hyenas are coming</p>
